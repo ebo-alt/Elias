@@ -1,24 +1,24 @@
 .gaduur {
-  width: 500px;
-  height: 50px;
+  width: 400px;
+  height: 40px;
   border: 1px solid #abb2bf;
-  margin-top: 400px;
+  margin-top: 350px;
   margin-left: 50px;
 }
 .dorvoljin {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   background-color: #c778dd;
   float: left;
   margin-left: 10px;
   margin-top: 12px;
 }
 .text1 {
-  font-size: 22px;
+  font-size: 16px;
   color: #abb2bf;
 }
 .text2 {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 500;
   color: white;
 }

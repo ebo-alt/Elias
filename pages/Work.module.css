@@ -6,7 +6,7 @@
 }
 .ygaan,
 .tsagaan {
-  font-size: 32px;
+  font-size: 24px;
 }
 .ygaan {
   color: #c778dd;
@@ -22,8 +22,6 @@
 .gadn {
   display: flex;
   justify-content: space-between;
-  padding-left: 600px;
-  padding-right: 600px;
   margin-top: 200px;
 }
 .view {
@@ -34,7 +32,4 @@
 .Negs {
   border: 1px solid white;
   margin-top: 200px;
-}
-.first {
-  margin-left: 640px;
 }

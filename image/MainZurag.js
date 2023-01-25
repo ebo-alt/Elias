@@ -5,13 +5,13 @@ function MainZurag() {
     <svg
       style={{
         float: 'right',
-        marginRight: 200,
-        marginTop: -100,
+        marginRight: 150,
+        marginTop: -50,
       }}
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
-      width="600"
-      height="500"
+      width="500"
+      height="400"
       fill="none"
       viewBox="0 0 469 386"
     >

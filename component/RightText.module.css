@@ -4,8 +4,8 @@
   display: inline-flex;
 }
 .container {
-  margin-left: 500px;
   margin-top: -300px;
+  float: right;
 }
 .gadna {
   height: 140px;

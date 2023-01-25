@@ -4,8 +4,8 @@ function Hug() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="42"
-      height="29"
+      width="32"
+      height="24"
       fill="none"
       viewBox="0 0 42 29"
     >

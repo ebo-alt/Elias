@@ -1,15 +1,15 @@
 .Drs {
   border: 1px solid #abb2bf;
-  width: 842px;
-  height: 95px;
+  width: 582px;
+  height: 65px;
   margin: auto;
 }
 .power {
   font-weight: 500;
-  font-size: 28px;
+  font-size: 20px;
   color: white;
-  margin-left: 50px;
-  margin-top: 10px;
+  margin-left: 20px;
+  margin-top: 3px;
 }
 .Hug1 {
   margin-top: -15px;
@@ -19,21 +19,21 @@
   border-left: 1px solid #abb2bf;
   border-bottom: 1px solid #abb2bf;
   border-right: 1px solid #abb2bf;
-  width: 220px;
-  height: 63px;
+  width: 150px;
+  height: 46px;
   float: right;
-  margin-right: 24%;
+  margin-right: 20%;
 }
 .super {
   font-weight: 500;
-  font-size: 28px;
+  font-size: 20px;
   color: white;
-  margin-left: 28px;
-  margin-top: -7px;
+  margin-left: 20px;
+  margin-top: -5px;
 }
 .Hug2 {
   margin-top: -15px;
-  margin-left: 150px;
+  margin-left: 110px;
 }
 .hooson {
   width: 104px;

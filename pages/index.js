@@ -5,6 +5,7 @@ import Main from '../component/Main.js';
 import LeftText from '../component/LeftText.js';
 import DrWho from '../component/DrWho.js';
 import Work from '../pages/Work.js';
+import AboutMe from '../pages/AboutMe.js';
 
 function Index() {
   return (
@@ -21,6 +22,7 @@ function Index() {
         <DrWho />
       </section>
       <Work />
+      <AboutMe />
     </section>
   );
 }

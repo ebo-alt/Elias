@@ -15,7 +15,7 @@ const HeaderList = [
   },
   {
     name: 'About-me',
-    path: '/About-me',
+    path: '/AboutMe',
   },
   {
     name: 'Contact',
