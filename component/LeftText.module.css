@@ -1,0 +1,41 @@
+.sec {
+  margin-top: -230px;
+}
+.neg {
+  margin-left: 180px;
+  font-size: 36px;
+}
+.tsagaan {
+  color: white;
+}
+.ygaan {
+  color: #c778dd;
+}
+.doodygaan {
+  color: #c778dd;
+  margin-top: -30px;
+}
+.neg > .tsagaan,
+.ygaan {
+  display: inline-block;
+  margin-top: 100px;
+}
+.hoyr {
+  font-size: 20px;
+  margin-left: 180px;
+  color: #abb2bf;
+  margin-top: -20px;
+}
+.gurav {
+  margin-left: 180px;
+  width: 180px;
+  height: 50px;
+  border: 1px solid #c778dd;
+}
+.me {
+  color: white;
+  padding-left: 20px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}

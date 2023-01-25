@@ -1,0 +1,69 @@
+.container > .first,
+.second,
+.third {
+  display: inline-flex;
+}
+.container {
+  margin-left: 500px;
+  margin-top: -300px;
+}
+.gadna {
+  height: 140px;
+  width: 230px;
+  border: 1px solid #abb2bf;
+}
+.Lang {
+  font-size: 20px;
+  color: #ffffff;
+  margin-left: 14px;
+  margin-top: 14px;
+}
+.Code {
+  font-size: 18px;
+  color: #abb2bf;
+  margin-left: 14px;
+  margin-top: 12px;
+}
+.Codes {
+  font-size: 18px;
+  color: #abb2bf;
+  margin-left: 14px;
+  margin-top: -30px;
+}
+.Codess {
+  font-size: 18px;
+  color: #abb2bf;
+  margin-left: 14px;
+  margin-top: -30px;
+}
+.hr {
+  width: 100%;
+  height: 40px;
+  border-bottom: 1px solid #abb2bf;
+}
+.gadnaa {
+  height: 140px;
+  width: 230px;
+  border: 1px solid #abb2bf;
+  margin-left: 20px;
+}
+.gadnas {
+  height: 140px;
+  width: 230px;
+  border: 1px solid #abb2bf;
+  margin-left: 250px;
+  margin-top: -170px;
+}
+.Three {
+  height: 170px;
+  width: 230px;
+  border: 1px solid #abb2bf;
+  margin-left: 20px;
+}
+.gadan {
+  height: 140px;
+  width: 230px;
+  border: 1px solid #abb2bf;
+  margin-left: 500px;
+  margin-top: 20px;
+}

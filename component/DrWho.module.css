@@ -1,0 +1,45 @@
+.Drs {
+  border: 1px solid #abb2bf;
+  width: 842px;
+  height: 95px;
+  margin: auto;
+}
+.power {
+  font-weight: 500;
+  font-size: 28px;
+  color: white;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.Hug1 {
+  margin-top: -15px;
+  margin-left: 10px;
+}
+.Who {
+  border-left: 1px solid #abb2bf;
+  border-bottom: 1px solid #abb2bf;
+  border-right: 1px solid #abb2bf;
+  width: 220px;
+  height: 63px;
+  float: right;
+  margin-right: 24%;
+}
+.super {
+  font-weight: 500;
+  font-size: 28px;
+  color: white;
+  margin-left: 28px;
+  margin-top: -7px;
+}
+.Hug2 {
+  margin-top: -15px;
+  margin-left: 150px;
+}
+.hooson {
+  width: 104px;
+  height: 94px;
+  border: 1px solid #abb2bf;
+  margin-top: -50px;
+  margin-right: 5%;
+  float: right;
+}

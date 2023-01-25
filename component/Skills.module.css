@@ -1,0 +1,24 @@
+.ygaan,
+.tsagaan {
+  font-size: 32px;
+}
+.ygaan {
+  color: #c778dd;
+}
+.tsagaan {
+  color: white;
+}
+.ehniih > .tsagaan,
+.ygaan,
+.hr {
+  display: inline-block;
+}
+.hr {
+  width: 240px;
+  height: 2px;
+  background-color: #c778dd;
+  margin-left: 50px;
+}
+.gadn {
+  margin-left: 600px;
+}

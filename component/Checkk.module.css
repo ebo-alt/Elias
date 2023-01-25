@@ -1,0 +1,50 @@
+.second {
+  height: 100%;
+  width: 403px;
+  border: 1px solid #abb2bf;
+}
+.codes {
+  color: #abb2bf;
+  font-size: 12px;
+  margin-top: -1px;
+}
+.codess {
+  color: #abb2bf;
+  font-size: 12px;
+  border-bottom: 1px solid #abb2bf;
+  margin-top: -1px;
+}
+.codes > h2 {
+  display: inline-block;
+  margin-left: 15px;
+}
+.codess > h2 {
+  display: inline-block;
+  margin-left: 15px;
+}
+.ProjectX {
+  font-size: 24px;
+  color: white;
+  margin-left: 16px;
+  margin-top: 16px;
+}
+.Mine {
+  font-size: 16px;
+  color: #abb2bf;
+  margin-left: 16px;
+  margin-top: -40px;
+}
+.live {
+  height: 37px;
+  width: 109px;
+  border: 1px solid #c778dd;
+  margin-top: -20px;
+  margin-left: 16px;
+  margin-bottom: 16px;
+}
+.lives {
+  font-size: 18px;
+  margin-top: 5px;
+  margin-left: 15px;
+  color: white;
+}

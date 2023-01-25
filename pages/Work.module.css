@@ -1,0 +1,40 @@
+.hr {
+  width: 512px;
+  height: 2px;
+  background-color: #c778dd;
+  margin-left: 50px;
+}
+.ygaan,
+.tsagaan {
+  font-size: 32px;
+}
+.ygaan {
+  color: #c778dd;
+}
+.tsagaan {
+  color: white;
+}
+.ehniih > .tsagaan,
+.ygaan,
+.hr {
+  display: inline-block;
+}
+.gadn {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 600px;
+  padding-right: 600px;
+  margin-top: 200px;
+}
+.view {
+  font-size: 20px;
+  color: white;
+  margin-top: 90px;
+}
+.Negs {
+  border: 1px solid white;
+  margin-top: 200px;
+}
+.first {
+  margin-left: 640px;
+}
