@@ -4,7 +4,7 @@ import Skills from '../component/Skills.js';
 
 function Work() {
   return (
-    <section>
+    <section className={styles.container}>
       <section className={styles.gadn}>
         <div className={styles.ehniih}>
           <h1 className={styles.ygaan}>#</h1>{' '}

@@ -1,3 +1,6 @@
+.container {
+  margin-left: 200px;
+}
 .hr {
   width: 512px;
   height: 2px;
@@ -6,7 +9,7 @@
 }
 .ygaan,
 .tsagaan {
-  font-size: 20px;
+  font-size: 26px;
 }
 .ygaan {
   color: #c778dd;
@@ -28,6 +31,7 @@
   font-size: 20px;
   color: white;
   margin-top: 90px;
+  margin-right: 150px;
 }
 .Negs {
   border: 1px solid white;
